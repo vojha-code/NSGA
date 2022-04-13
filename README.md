@@ -8,4 +8,10 @@ Good for 2 objectioves
 ## NSGA 3: Many-Objective Optimization 
 Good for 2 and more objectioves
 
+Please cite the wotk if you use this sorce code.
+
+Ojha V and Nicosia G (2002) Multi-objective Optimisation of Multi-output Neural Trees, IEEE Confernce of Evolutionary Computation (CEC). 
+URL: https://arxiv.org/pdf/2010.04524.pdf
+Soruce Code: https://github.com/vojha-code/Multi-Output-Neural-Tree
+
 
